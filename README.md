@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my personal web page. 
-- 🌱 I’m currently learning VR APP.
-- 🤔 I’m looking for help with sensor electronics.
+- 🔭 I’m currently working on Unity and Front End Developer . 
+- 🌱 I’m currently learning on Web 3.0.
+- 🤔 I’m looking for help with Block-chain.
 - 📫 How to reach me at codepen: juanprog97.
 
 ### Stats and Language Tools. 
